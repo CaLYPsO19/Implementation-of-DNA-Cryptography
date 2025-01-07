@@ -1,3 +1,5 @@
+DNA CRYPOGRAPHY
+
 DNA cryptography represents a cutting-edge approach to securing information through the application of biotechnology and genetics.
 In this innovative field, the fundamental building blocks of life, DNA sequences, are leveraged as a medium for encoding and decoding sensitive data
 Implementation of DNA cryptography involves converting digital information into DNA code, using a predefined encoding scheme.
